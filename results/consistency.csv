@@ -1,0 +1,11 @@
+encoder,version_paper,repeat_padding_paper,version_repo,repeat_padding_repo
+libjpeg,6b-9f,True,6b-9f,True
+libjpeg-turbo,1.2.0-2.1.0,True,turbo120-turbo210,True
+MozJPEG,1-4,True,mozjpeg101-mozjpeg403,True
+pillow,12.1.0,True,12.2.0,True
+OpenCV,4.12.0,True,4.12.0,True
+ImageMagick,7.1.2-21,True,,
+darktable,5.4.1,True,,
+Gimp,3.2.4,True,,
+Lightroom Desktop,9.4,False,,
+Lightroom Mobile,11.4.0,False,,
